@@ -6,7 +6,7 @@ ModuleName=two-step
 [two-step]
 Font=Cantarell 12
 TitleFont=Cantarell Light 30
-ImageDir=/usr/share/plymouth/themes/voidsplash
+ImageDir=/usr/share/plymouth/themes/voidsplash-1
 DialogHorizontalAlignment=.5
 DialogVerticalAlignment=.9
 TitleHorizontalAlignment=.5
